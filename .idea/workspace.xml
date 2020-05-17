@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="操作系统大作业:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4df366f4-877f-4fe0-9b34-482e7df987f7" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZEoG0ZiBB4c2WeXgy6DCqG5kmI" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/hyperic-sigar-1.6.4/hyperic-sigar-1.6.4/sigar-bin/lib/sigar.jar!/" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RunManager" selected="Application.GUI">
+    <configuration name="CPUPanel" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="gui.CPUPanel" />
+      <module name="操作系统大作业" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CPUTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CPUTest" />
+      <module name="操作系统大作业" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DiskPanel" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="gui.DiskPanel" />
+      <module name="操作系统大作业" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value=".*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GUI" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="GUI" />
+      <module name="操作系统大作业" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MemPanel" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="gui.MemPanel" />
+      <module name="操作系统大作业" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value=".*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.GUI" />
+        <item itemvalue="Application.MemPanel" />
+        <item itemvalue="Application.DiskPanel" />
+        <item itemvalue="Application.CPUPanel" />
+        <item itemvalue="Application.CPUTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4df366f4-877f-4fe0-9b34-482e7df987f7" name="Default Changelist" comment="" />
+      <created>1584413514669</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584413514669</updated>
+      <workItem from="1584413516854" duration="347000" />
+      <workItem from="1584413874016" duration="1899000" />
+      <workItem from="1584416912133" duration="1490000" />
+      <workItem from="1584418513091" duration="1276000" />
+      <workItem from="1584420279278" duration="44000" />
+      <workItem from="1584420331940" duration="1428000" />
+      <workItem from="1584421790786" duration="29000" />
+      <workItem from="1584421829980" duration="1241000" />
+      <workItem from="1584423082714" duration="2989000" />
+      <workItem from="1584438321267" duration="1073000" />
+      <workItem from="1587280993547" duration="2286000" />
+      <workItem from="1589248775199" duration="616000" />
+      <workItem from="1589593427042" duration="1267000" />
+      <workItem from="1589600383978" duration="7982000" />
+      <workItem from="1589610635894" duration="9793000" />
+      <workItem from="1589622451478" duration="3031000" />
+      <workItem from="1589640013878" duration="900000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="337" y="70" key="#Custom_Plugin_Repositories" timestamp="1584420216742">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="337" y="70" key="#Custom_Plugin_Repositories/0.0.1536.824@0.0.1536.824" timestamp="1584420216742" />
+    <state x="337" y="70" key="#HTTP_Proxy" timestamp="1584420190713">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="337" y="70" key="#HTTP_Proxy/0.0.1536.824@0.0.1536.824" timestamp="1584420190713" />
+    <state x="361" y="70" key="#Inspections" timestamp="1587281073920">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="70" key="#Inspections/0.0.1536.824@0.0.1536.824" timestamp="1587281073920" />
+    <state x="507" y="214" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1589622461942">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="507" y="214" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1589622461942" />
+    <state x="574" y="128" key="#com.intellij.ide.util.MemberChooser" timestamp="1589611091657">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="574" y="128" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1589611091657" />
+    <state x="994" y="209" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1589624265291">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="994" y="209" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1536.824@0.0.1536.824" timestamp="1589624265291" />
+    <state x="166" y="170" key="FileChooserDialogImpl" timestamp="1584422965819">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="166" y="170" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1584422965819" />
+    <state width="1492" height="200" key="GridCell.Tab.0.bottom" timestamp="1589640915968">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1492" height="200" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1589640915968" />
+    <state width="1492" height="200" key="GridCell.Tab.0.center" timestamp="1589640915968">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1492" height="200" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1589640915968" />
+    <state width="1492" height="200" key="GridCell.Tab.0.left" timestamp="1589640915968">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1492" height="200" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1589640915968" />
+    <state width="1492" height="200" key="GridCell.Tab.0.right" timestamp="1589640915968">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1492" height="200" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1589640915968" />
+    <state width="1492" height="252" key="GridCell.Tab.1.bottom" timestamp="1589622194380">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1492" height="252" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1589622194380" />
+    <state width="1492" height="252" key="GridCell.Tab.1.center" timestamp="1589622194380">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1492" height="252" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1589622194380" />
+    <state width="1492" height="252" key="GridCell.Tab.1.left" timestamp="1589622194380">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1492" height="252" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1589622194380" />
+    <state width="1492" height="252" key="GridCell.Tab.1.right" timestamp="1589622194380">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1492" height="252" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1589622194380" />
+    <state x="380" y="0" width="1071" height="824" key="SettingsEditor" timestamp="1589624294426">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="380" y="0" width="1071" height="824" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1589624294426" />
+    <state x="449" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1584413876511">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="449" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1584413876511" />
+  </component>
+</project>
